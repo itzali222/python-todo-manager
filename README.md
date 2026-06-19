@@ -107,7 +107,7 @@ This project helped me practice:
 
 ## Author
 
-Ali Shah
+Ali  hussain Shah
 
 Aspiring AI Engineer | Python Developer
 
